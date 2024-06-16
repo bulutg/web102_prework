@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 ![Video Walkthrough](./final.gif?raw=true "Video Walkthrough")
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Screen Recording --> Adobe Express
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,7 +35,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-I tried to execute some functions before DOM loaded, then it failed to execute. I figured it out with placing those functions to correct locations. I have also another solution which involves event listener when DOM content is loaded.
+I tried to execute some functions before the DOM loaded, but then it failed to execute. I figured it out by placing those functions in the correct locations. I also have another solution that involves an event listener when DOM content is loaded.
 
 ## License
 
